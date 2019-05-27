@@ -82,18 +82,18 @@ analytics:
 author:
   name             : "Ziyu Jiang"
   avatar           : "profile.jpg"
-  bio              : "Welcome to my home page!"
+  bio              : "Welcome to my home page."
   employer         :
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : #"jiangziyu@tamu.edu"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "jiangziyu@tamu.edu"
   researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"profile.php?id=100022511949908"
+  facebook         : "profile.php?id=100022511949908"
   foursquare       :
   github           : "geekJZY"
   google_plus      :
