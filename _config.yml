@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xueqin Huang"
   avatar           : "profile.jpg"
-  bio              : "welcome to my homepage!"
+  bio              : "welcome to my homepage!I am Xueqin Huang, a PhD. Student at TAMU. My current research focuses on the microstructure simulation with Ni-based Addictive Manufacturing Materials. This computational method can help to avoid the undesirable phases and choose the feasible process parameters in the experiment , based on the physical mechanism of the materials. I am also working on coupling the Lattice Boltzmann Method with current model. The accuracy of the model increases after implementing LBM due to the consideration of fluid flow, since the convection is non-negligible  in AM. "
   employer         :
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -93,7 +93,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :"https://www.facebook.com/xueqin.huang.58"
+  facebook         : "https://www.facebook.com/xueqin.huang.58"
   foursquare       :
   github           : "Celery030"
   google_plus      :
