@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "jiangziyu@tamu.edu"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -82,33 +82,34 @@ analytics:
 author:
   name             : "Ziyu Jiang"
   avatar           : "profile.jpg"
-  bio              : "Welcome to my home page."
+  bio              : "Welcome to My Homepage"
+  location         : "Texas A & M"
   employer         :
-  pubmed           : 
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "jiangziyu@tamu.edu"
-  researchgate     : 
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "profile.php?id=100022511949908"
+  facebook         :
   foursquare       :
-  github           : "geekJZY"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
