@@ -1,5 +1,5 @@
 ---
-title: "Origin of the enhancement in transport properties on polycrystalline SnSe with compositing two-dimensional material MoSe2"
+title: "Origin of the enhancement in transport properties on polycrystalline SnSe with compositing two-dimensional material MoSe<\font size="-1">2<\font>"
 collection: publications
 permalink: /publication/2017-02
 excerpt: ''
