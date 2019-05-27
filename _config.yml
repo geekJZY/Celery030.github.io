@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Hello World!"
 title_separator          : "-"
-name                     : &name "Xueqin Huang"
+name                     : &name "Ziyu Jiang"
 description              : &description "personal description"
-url                      : https://Celery030.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://geekJZY.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Celery030/Celery030.github.io"
+repository               : "geekJZY/Celery030.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "xueq13@tamu.edu"
+    email                : "jiangziyu@tamu.edu"
   generatedFields:
     date:
       type               : "date"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xueqin Huang"
+  name             : "Ziyu Jiang"
   avatar           : "profile.jpg"
   bio              : "welcome to my homepage!"
   employer         :
@@ -93,9 +93,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "xueqin.huang.58"
+  facebook         : "profile.php?id=100022511949908"
   foursquare       :
-  github           : "Celery030"
+  github           : "geekJZY"
   google_plus      :
   keybase          :
   instagram        :
