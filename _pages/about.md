@@ -10,12 +10,15 @@ redirect_from:
 
 About Me
 ======
-I am Ziyu Jiang, a PhD. Student at TAMU. My current research focuses on 
+I am Ziyu Jiang, a PhD. Student at TAMU. My current research focuses on Semantic Segmentation, Multi-modality Fusion, Efficient Training and Neural Architecture Search.
 
 Publication
 ======
-Xue-Qin Huang, Yue-Xing Chen, Mei-Jie Yin, Dan Feng, Jia-Qing He, origin of the enhancement in transport properties on polycrystalline SnSe with compositing two-dimensional material MoSe<font size="-1">2</font>. Nanotechnology 28(2017) 105708
-[Download paper here](https://iopscience.iop.org/article/10.1088/1361-6528/aa55e3) 
+<b>Ziyu Jiang*</b>, Wuyang Chen*, Zhangyang Wang, Kexin Cui, Xiaoning Qian. Collaborative
+Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images.
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+2019.
 
-Yue-Xing Chen, Zhen-Hua Ge, Mei-Jie Yin, Dan Feng, Xue-Qin Huang, Wen-Yu Zhao, Jia-Qing He, Understanding of the Extremely Low Thermal Conductivity in High Performance Polycrystalline SnSe through Potassium Doping. Adv. Funct. Mater. 2016, 26, 6836-6845. 
-[Download paper here](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201602652) 
+<b>Ziyu Jiang</b>, Kate Von Ness, Julie Loisel, Zhangyang Wang. ArcticNet: A Deep Learning
+Solution to Classify Arctic Wetlands. 2019 IEEE/CVF Conference on Computer Vision and
+Pattern Recognition Workshops (CVPRW). IEEE, 2019.
