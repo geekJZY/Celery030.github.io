@@ -27,7 +27,7 @@ Professional Experience
 -----------
 
 June - , 2019 (expected)
-:   **Research Intern NEC Researc**; San Jose, CA
+:   **Research Intern NEC Researc**, San. Jose, CA
 
     *Research on indoor scene understanding*
      Mentors:  Buyu, Liu
