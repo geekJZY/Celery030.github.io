@@ -22,3 +22,11 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (C
 <b>Ziyu Jiang</b>, Kate Von Ness, Julie Loisel, Zhangyang Wang. ArcticNet: A Deep Learning
 Solution to Classify Arctic Wetlands. 2019 IEEE/CVF Conference on Computer Vision and
 Pattern Recognition Workshops (CVPRW). IEEE, 2019.
+
+Professional Experience
+======
+<pre>Research Intern NEC Research, San Jose, CA           June - , 2019 </pre>
+
+<pre>Research on indoor scene understanding.              Mentors:  Buyu, Liu</pre>
+
+* Explore better algorithms for semantic segmenation of indoor scene.
