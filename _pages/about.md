@@ -16,12 +16,12 @@ Publication
 ------------
 <b>Ziyu Jiang* </b>, Wuyang Chen*, Zhangyang Wang, Kexin Cui, Xiaoning Qian. Collaborative
 Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images.
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+Proceedings of the IEEE Conference on *Computer Vision and Pattern Recognition* (CVPR).
 2019.
 
 <b>Ziyu Jiang</b>, Kate Von Ness, Julie Loisel, Zhangyang Wang. ArcticNet: A Deep Learning
-Solution to Classify Arctic Wetlands. 2019 IEEE/CVF Conference on Computer Vision and
-Pattern Recognition Workshops (CVPRW). IEEE, 2019.
+Solution to Classify Arctic Wetlands. 2019 IEEE/CVF Conference on *Computer Vision and
+Pattern Recognition Workshops* (CVPRW). IEEE, 2019.
 
 Professional Experience
 -----------
