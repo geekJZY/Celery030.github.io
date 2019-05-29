@@ -25,8 +25,10 @@ Pattern Recognition Workshops (CVPRW). IEEE, 2019.
 
 Professional Experience
 ======
-<pre>Research Intern NEC Research, San Jose, CA           June - , 2019 </pre>
+Research Intern NEC Research, San Jose, CA, June - , 2019
 
-<pre>Research on indoor scene understanding.              Mentors:  Buyu, Liu</pre>
+Research on indoor scene understanding. 
+
+Mentors:  Buyu, Liu
 
 * Explore better algorithms for semantic segmenation of indoor scene.
