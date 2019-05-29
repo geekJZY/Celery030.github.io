@@ -14,7 +14,7 @@ I am Ziyu Jiang, a PhD. Student at TAMU. My current research focuses on Semantic
 
 Publication
 ------------
-<b>Ziyu Jiang* </b>, Wuyang Chen*, Zhangyang Wang, Kexin Cui, Xiaoning Qian. Collaborative
+<b>Ziyu Jiang* </b>, Wuyang Chen* , Zhangyang Wang, Kexin Cui, Xiaoning Qian. Collaborative
 Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images.
 Proceedings of the IEEE Conference on *Computer Vision and Pattern Recognition* (CVPR).
 2019.
