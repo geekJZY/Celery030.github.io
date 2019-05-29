@@ -29,7 +29,9 @@ Professional Experience
 June - , 2019 (expected)
 :   **Research Intern**, *NEC laboratories america inc*, San. Jose, CA
 
-    *Research on indoor scene understanding*
+      Mentors:  Buyu, Liu
+      
+      *Research on indoor scene understanding*
      
-     Mentors:  Buyu, Liu
-    * Explore better algorithms for semantic segmenation of indoor scene.
+     
+      * Explore better algorithms for semantic segmenation of indoor scene.
