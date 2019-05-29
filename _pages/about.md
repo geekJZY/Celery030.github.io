@@ -26,7 +26,7 @@ Pattern Recognition Workshops (CVPRW). IEEE, 2019.
 Professional Experience
 -----------
 
-June - , 2019 (expected)
+June - , 2019
 :   **Research Intern**, *NEC laboratories america inc*, San. Jose, CA
 
       Mentors:  Buyu, Liu
