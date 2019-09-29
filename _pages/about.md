@@ -19,9 +19,16 @@ Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution
 Proceedings of the IEEE Conference on *Computer Vision and Pattern Recognition* (CVPR).
 2019.
 
+<b>Ziyu Jiang*</b>, Yue Wang*, Xiaohan Chen*, Pengfei Xu, Yang Zhao, Yingyan Lin, Zhangyang Wang. E$^2$-Train: 
+Training State-of-the-art CNNs with Over 80\% Less Energy.
+*Advances in Neural Information Processing Systems* (Neurips).
+2019.
+
 <b>Ziyu Jiang</b>, Kate Von Ness, Julie Loisel, Zhangyang Wang. ArcticNet: A Deep Learning
 Solution to Classify Arctic Wetlands. 2019 IEEE/CVF Conference on *Computer Vision and
 Pattern Recognition Workshops* (CVPRW). IEEE, 2019.
+
+<b>Ziyu Jiang*</b>, Randy Ardywibowo*, Aven Samereh, Heather Evans, Bill Lober, Xiangyu Chang, Xiaoning Qian, Zhangyang Wang, Shuai Huang. A Roadmap for Automatic Surgical Site Infection (SSI) Detection and Evaluation using User-Generated Wound Images. *Surgical infections* (2019).
 
 Professional Experience
 -----------
