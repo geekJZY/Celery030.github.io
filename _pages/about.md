@@ -17,7 +17,7 @@ Publication
 <b>Ziyu Jiang </b>, Buyu Liu, Samuel Schulter, Zhangyang Wang, Manmohan Chandraker. 
 Peek-a-Boo: Occlusion Reasoning in Indoor Scenes With Plane Representations.
 Proceedings of the IEEE Conference on *Computer Vision and Pattern Recognition* (CVPR).
-2020. <b>Oral </b>.
+2020 (ORAL).
 
 <b>Ziyu Jiang* </b>, Yue Wang*, Xiaohan Chen*, Pengfei Xu, Yang Zhao, Yingyan Lin, Zhangyang Wang. 
 E$^2$-Train: Training State-of-the-art CNNs with Over 80\% Less Energy.
@@ -27,7 +27,7 @@ E$^2$-Train: Training State-of-the-art CNNs with Over 80\% Less Energy.
 <b>Ziyu Jiang* </b>, Wuyang Chen* , Zhangyang Wang, Kexin Cui, Xiaoning Qian. Collaborative
 Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images.
 Proceedings of the IEEE Conference on *Computer Vision and Pattern Recognition* (CVPR).
-2019. <b>Oral </b>.
+2019 (ORAL).
 
 <b>Ziyu Jiang</b>, Kate Von Ness, Julie Loisel, Zhangyang Wang. ArcticNet: A Deep Learning
 Solution to Classify Arctic Wetlands. 2019 IEEE/CVF Conference on *Computer Vision and
@@ -48,6 +48,6 @@ June - August, 2019
 June - , 2020
 :   **Research Intern**, *Bytedance AI Lab*, Mountain View, CA
 
-      Mentors:  linjie yang<br/>
+      Mentors:  Linjie Yang<br/>
       *Research on video segmentation*<br/>
       * Explore efficient approach for video segmentation.
