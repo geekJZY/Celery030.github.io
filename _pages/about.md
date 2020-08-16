@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 -----------
-I am Ziyu Jiang, a PhD. Student at TAMU. My current research focuses on Semantic Segmentation, Self-supervised learning and Efficient Training.
+I am Ziyu Jiang, a PhD. Student at VITA Group[link](https://vita-group.github.io/index.html). My current research focuses on Semantic Segmentation, Self-supervised learning and Efficient Training.
 
 Publication
 ------------
