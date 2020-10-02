@@ -14,14 +14,14 @@ I am Ziyu Jiang, a PhD. Student at VITA Group [[link](https://vita-group.github.
 
 Publication
 ------------
-<b>Ziyu Jiang </b>, Buyu Liu, Samuel Schulter, Zhangyang Wang, Manmohan Chandraker. 
+<b>Ziyu Jiang </b>, Tianlong Chen, Ting Chen, Zhangyang Wang. 
 Adversarial Contrastive Learning: Harvesting More Robustness from Unsupervised Pre-Training.
 *Advances in Neural Information Processing Systems* (Neurips).
 2020.
 
-<b>Ziyu Jiang </b>, Tianlong Chen, Ting Chen, Zhangyang Wang. 
+<b>Ziyu Jiang </b>, Buyu Liu, Samuel Schulter, Zhangyang Wang, Manmohan Chandraker. 
 Peek-a-Boo: Occlusion Reasoning in Indoor Scenes With Plane Representations.
-Proceedings of the IEEE Conference on *Computer Vision and Pattern Recognition* (Neurips).
+Proceedings of the IEEE Conference on *Computer Vision and Pattern Recognition* (CVPR).
 2020 (ORAL).
 
 <b>Ziyu Jiang* </b>, Yue Wang*, Xiaohan Chen*, Pengfei Xu, Yang Zhao, Yingyan Lin, Zhangyang Wang. 
