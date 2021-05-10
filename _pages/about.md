@@ -14,7 +14,7 @@ I am Ziyu Jiang, a PhD. Student at VITA Group [[link](https://vita-group.github.
 
 Publication
 ------------
-<b>Ziyu Jiang </b>, Tianlong Chen, Bobak Mortazavi, Zhangyang Wang. 
+<b>Ziyu Jiang </b>, Tianlong Chen, Bobak Mortazavi, Zhangyang Wang.
 Self-Damaging Contrastive Learning.
 *International conference on machine learning* (ICML).
 2021.
