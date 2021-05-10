@@ -15,7 +15,12 @@ I am Ziyu Jiang, a PhD. Student at VITA Group [[link](https://vita-group.github.
 Publication
 ------------
 <b>Ziyu Jiang </b>, Tianlong Chen, Ting Chen, Zhangyang Wang. 
-Adversarial Contrastive Learning: Harvesting More Robustness from Unsupervised Pre-Training.
+Self-Damaging Contrastive Learning.
+*International conference on machine learning* (ICML).
+2021.
+
+<b>Ziyu Jiang </b>, Tianlong Chen, Ting Chen, Zhangyang Wang. 
+Robust Pre-Training by Adversarial Contrastive Learning.
 *Advances in Neural Information Processing Systems* (Neurips).
 2020.
 
@@ -42,6 +47,19 @@ Pattern Recognition Workshops* (CVPRW). IEEE, 2019.
 
 Professional Experience
 -----------
+May - August, 2021
+:   **Research Intern**, *Microsoft*, Redmond, WA
+
+      Mentors:  Zhe Gan<br/>
+      *Research on video segmentation*<br/>
+      * Explore efficient approach for video segmentation.
+
+June - November, 2020
+:   **Research Intern**, *Bytedance AI Lab*, Mountain View, CA
+
+      Mentors:  Linjie Yang<br/>
+      *Research on video segmentation*<br/>
+      * Explore efficient approach for video segmentation.
 
 June - August, 2019
 :   **Research Intern**, *NEC laboratories america inc*, San. Jose, CA
@@ -50,9 +68,3 @@ June - August, 2019
       *Research on indoor scene understanding*<br/>
       * Explore better algorithms for semantic segmenation of indoor scene.
 
-June - , 2020
-:   **Research Intern**, *Bytedance AI Lab*, Mountain View, CA
-
-      Mentors:  Linjie Yang<br/>
-      *Research on video segmentation*<br/>
-      * Explore efficient approach for video segmentation.
