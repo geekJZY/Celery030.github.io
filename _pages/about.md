@@ -19,6 +19,10 @@ Self-Damaging Contrastive Learning.
 *International conference on machine learning* (ICML).
 2021.
 
+<b>Ziyu Jiang </b>, Zhenhua He, Xueqin Huang, Zibin Yang, Pearl Tan. CE-PeopleSeg: Real-time
+people segmentation with 10% CPU usage for video conference. 2021 IEEE/CVF Conference on
+Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE, 2021
+
 <b>Ziyu Jiang </b>, Tianlong Chen, Ting Chen, Zhangyang Wang. 
 Robust Pre-Training by Adversarial Contrastive Learning.
 *Advances in Neural Information Processing Systems* (Neurips).
